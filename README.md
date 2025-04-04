@@ -28,7 +28,7 @@ Welcome to my **Personal Portfolio Website**, a fully responsive web application
 
 🧰 Tech Stack
 
-- **HTML5**
+- **HTML**
 
 - **CSS**
   
