@@ -30,7 +30,7 @@ Welcome to my **Personal Portfolio Website**, a fully responsive web application
 
 - **HTML5**
 
-- **CSS3**
+- **CSS**
   
 - **Responsive Design** using `media queries`
 
